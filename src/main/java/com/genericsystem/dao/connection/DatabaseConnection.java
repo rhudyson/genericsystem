@@ -1,5 +1,4 @@
 package com.genericsystem.dao.connection;
-
 import java.io.Serializable;
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
